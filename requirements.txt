@@ -1,0 +1,11 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.6.0
+Flask-Cors==4.0.1
+Werkzeug==3.0.3
+
+# PostgreSQL ব্যবহার করতে চাইলে আনকমেন্ট করুন:
+# psycopg2-binary==2.9.9
+
+# MySQL ব্যবহার করতে চাইলে আনকমেন্ট করুন:
+# PyMySQL==1.1.1
